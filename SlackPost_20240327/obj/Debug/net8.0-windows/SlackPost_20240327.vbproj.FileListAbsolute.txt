@@ -1,0 +1,16 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\bin\Debug\net8.0-windows\SlackPost_20240327.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\bin\Debug\net8.0-windows\SlackPost_20240327.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\bin\Debug\net8.0-windows\SlackPost_20240327.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\bin\Debug\net8.0-windows\SlackPost_20240327.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\bin\Debug\net8.0-windows\SlackPost_20240327.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.Form1.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\refint\SlackPost_20240327.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\SlackPost_20240327.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\SlackPost_20240327\SlackPost_20240327\obj\Debug\net8.0-windows\ref\SlackPost_20240327.dll
